@@ -1,0 +1,26 @@
+{
+    "name": "cupcake-ui",
+    "displayName": "cupcake-ui",
+    "description": "Colorful theme using cupcake's colors",
+    "version": "0.0.3",
+    "repository": {
+        "type": "git",
+        "url": "g3offrey/cupcake-ui"
+    },
+    "publisher": "legfrey",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cupcake",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cupcake-color-theme.json"
+            }
+        ]
+    }
+}
