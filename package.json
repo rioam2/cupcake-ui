@@ -2,7 +2,7 @@
     "name": "cupcake-ui",
     "displayName": "cupcake-ui",
     "description": "Republish of g3offrey's wonderful and colorful theme using cupcake's colors",
-    "version": "0.1.0",
+    "version": "0.0.4",
     "repository": {
         "type": "git",
         "url": "rioam2/cupcake-ui"
